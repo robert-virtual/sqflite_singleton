@@ -1,16 +1,25 @@
 # sqflite_singleton
 
-A new Flutter project.
+projecto de app de notas
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Home
 
-A few resources to get you started if this is your first Flutter project:
+![Home](./screenshots/screenshot_1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Nueva Nota
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](./screenshots/screenshot_2.png)
+
+### Nota Guardada
+
+![Home](./screenshots/screenshot_3.png)
+
+### Nota actualizada
+
+![Home](./screenshots/screenshot_4.png)
+
+### Nota actualizada
+
+![Home](./screenshots/screenshot_5.png)
